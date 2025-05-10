@@ -1,0 +1,5 @@
+package tw.esun.employeeseatingdev.entity;
+
+public class Employee {
+
+}

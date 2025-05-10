@@ -1,0 +1,5 @@
+package tw.esun.employeeseatingdev.config;
+
+public class WebConfig {
+
+}
