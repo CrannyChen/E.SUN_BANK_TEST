@@ -1,7 +1,0 @@
-package tw.esun.employeeseatingdev.repository;
-
-import org.springframework.data.jpa.repository.JpaRepository;
-import tw.esun.employeeseatingdev.entity.Employee;
-
-public interface EmployeeRepository extends JpaRepository<Employee, String> {
-}

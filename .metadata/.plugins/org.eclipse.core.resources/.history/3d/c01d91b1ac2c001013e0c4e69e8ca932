@@ -1,5 +1,0 @@
-package tw.esun.employeeseatingdev.repository;
-
-public interface SeatingChartRepository {
-
-}
